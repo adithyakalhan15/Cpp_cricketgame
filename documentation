@@ -1,0 +1,5 @@
+* Each team has 6 batsmen and 5 bowlers.
+* 
+
+bowler balls. If runs = 1,3 or over ends. batsmans are got change sides.
+If batsman out, then new batman come, as well as over ends, new bowler comes.
